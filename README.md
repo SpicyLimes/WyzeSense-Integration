@@ -4,7 +4,8 @@
 **Disclaimer:**
 I am not the original creator of this Home Assistant HACS Integration and therefore I do not provide support for it. Please do not open any issues as they will not be monitored. This GitHub Repository only exists for my personal use (but others have the option to use it) within Home Assistant as a way to preserve the ability to use these WyzeSense Sensors in the future. Below you will find documentation from the original developer as well as links to the original GitHub page.
 
-----
+<details>
+  <summary><b>Original Documentation</b> - <i>Click to Open</i></summary>
 
 ## Home Assistant - WYZE Sense Component
 ### Original Documentation from original Developer: [*kevinvincent*](https://github.com/kevinvincent)
@@ -127,3 +128,4 @@ logger:
    * You can paste your log file at pastebin https://pastebin.com/ and submit a link.
    * Please include details about your setup (Pi, NUC, etc, docker?, HASSOS?)
    * The log file can also be found at `/<config_dir>/home-assistant.log`
+</details>
