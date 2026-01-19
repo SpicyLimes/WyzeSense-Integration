@@ -1,6 +1,10 @@
 ## WyzeSense-Integration
 ### A Home Assistant HACS Integration to communicate with WyzeSense Hubs and Sensors 
 
+This HACS Integration allows you to use WyzeCam v1's WyzeSense Hub with Home Assistant to control Wyze Version 1 Contact Sensors and Motion Sensors. THe WyzeSense Hub, when used with the WyzeCam v1, would plug into the back of the camera and act as a hub to utilize the sensors mentioned above. With this HACS Integration, once installed and configured, allows you to plug the WyzeSense Hub into your Home Assistant host machine and utilize these sensors with automations, scripts, scenes, etc. 
+
+Something to keep in mind when using this integration is Home Assistant updates, specifically when Supervisor is updated: Many times after an update, the sensors do not communicate with Home Assistant. Should you find yourself in this situation, use the "Reboot Home Assistant" (not "Restart Home Assistant") to re-enable communication. 
+
 **Disclaimer:**
 I am not the original creator of this Home Assistant HACS Integration and therefore I do not provide support for it. Please do not open any issues as they will not be monitored. This GitHub Repository only exists for my personal use (but others have the option to use it) within Home Assistant as a way to preserve the ability to use these WyzeSense Sensors in the future. Below you will find documentation from the original developer as well as links to the original GitHub page.
 
