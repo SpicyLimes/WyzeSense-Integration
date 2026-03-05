@@ -8,6 +8,8 @@ Something to keep in mind when using this integration is Home Assistant updates,
 **Disclaimer:**
 I am not the original creator of this Home Assistant HACS Integration and therefore I do not provide support for it. Please do not open any issues as they will not be monitored. This GitHub Repository only exists for my personal use (but others have the option to use it) within Home Assistant as a way to preserve the ability to use these WyzeSense Sensors in the future. Below you will find documentation from the original developer as well as links to the original GitHub page.
 
+**Update:** *Added Wyze-Updater Repo (added as directory) that was obtained years ago and was recently found on an old USB Flash Drive - it is unknown if the information is relevant or if the script still works. It is recommended to check all coding yourself before use - use at your own risk. You have been warned!*
+
 <details>
   <summary><b>Original Documentation</b> - <i>Click to Open</i></summary>
 
